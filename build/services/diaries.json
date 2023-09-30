@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "date": "2023-09-28",
+        "weather": "Soleado",
+        "visibility": "Buena",
+        "comment": "Hoy fue un día muy bonito. Salí a caminar por el parque y disfruté del sol."
+    },
+    {
+        "id": 2,
+        "date": "2023-09-29",
+        "weather": "Nublado",
+        "visibility": "Regular",
+        "comment": "Hoy fue un día nublado, pero no llovió. Trabajé en casa y luego salí a cenar con unos amigos."
+    },
+    {
+        "id": 3,
+        "date": "2023-09-30",
+        "weather": "Lluvioso",
+        "visibility": "Mala",
+        "comment": "Hoy fue un día lluvioso. Me quedé en casa y leí un libro."
+    },
+    {
+        "id": 4,
+        "date": "2023-10-01",
+        "weather": "Ventoso",
+        "visibility": "Regular",
+        "comment": "Hoy fue un día ventoso. Fui al gimnasio y luego me quedé en casa a descansar."
+    },
+    {
+        "id": 5,
+        "date": "2023-10-02",
+        "weather": "Frío",
+        "visibility": "Buena",
+        "comment": "Hoy fue un día frío. Salí a correr por el parque y luego me quedé en casa a tomar una taza de té."
+    },
+    {
+        "id": 6,
+        "date": "2023-10-03",
+        "weather": "Caluroso",
+        "visibility": "Buena",
+        "comment": "Hoy fue un día caluroso. Fui a la playa y me bañé en el mar."
+    },
+    {
+        "id": 7,
+        "date": "2023-10-04",
+        "weather": "Niebla",
+        "visibility": "Mala",
+        "comment": "Hoy fue un día con niebla. Me quedé en casa y trabajé en el ordenador."
+    },
+    {
+        "id": 8,
+        "date": "2023-10-05",
+        "weather": "Tormenta",
+        "visibility": "Muy mala",
+        "comment": "Hoy fue un día de tormenta. Me quedé en casa y leí un libro."
+    },
+    {
+        "id": 9,
+        "date": "2023-10-06",
+        "weather": "Arco iris",
+        "visibility": "Buena",
+        "comment": "Hoy fue un día precioso. Salí al parque y vi un arco iris."
+    },
+    {
+        "id": 10,
+        "date": "2023-10-07",
+        "weather": "Luna llena",
+        "visibility": "Excelente",
+        "comment": "Hoy fue un día de luna llena. Salí a pasear y disfruté de la noche."
+    }
+]
